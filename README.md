@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IQRHA – Personalized AI Study Assistant
 
 Upload notes (PDF, DOCX, TXT, MD) → get easy notes, flashcards, a final-test quiz, and document Q&A.
@@ -35,3 +36,6 @@ Frontend (Node 18+):
 4. On Render set `CORS_ORIGINS=<your Vercel URL>` and redeploy.
 
 Note: Render free tier has an ephemeral disk, so data resets on restart/redeploy.
+=======
+# iqrha
+>>>>>>> origin/main
