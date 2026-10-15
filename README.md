@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # IQRHA – Personalized AI Study Assistant
 
 Upload notes (PDF, DOCX, TXT, MD) → get easy notes, flashcards, a final-test quiz, and document Q&A.
